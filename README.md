@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Professional | Seeking new opportunities. Experienced in CI/CD, Infrastructure as Code (IaC), and Cloud Engineering. Proficient with Kubernetes, Terraform, and AWS/Azure
+DevOps Professional | Seeking new opportunities. Experienced in CI/CD, Infrastructure as Code (IaC), and Cloud Engineering. Proficient with Kubernetes, Terraform, and AWS/GCP
 
 
 ## 🌐 Socials:
